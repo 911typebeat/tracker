@@ -1,0 +1,3 @@
+NeQua,High
+YoTri,Moderate
+ImKol,Moderate
